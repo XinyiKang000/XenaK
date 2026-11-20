@@ -26,4 +26,4 @@ Currently developing my understanding of AI-enabled HR solutions, with a focus o
 ### Connect
 - Melbourne, Australia
 - Master of Business, Monash University | Expected 2027
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/xenakang
